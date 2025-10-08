@@ -1,3 +1,2 @@
 # usaid-ethiopia
-Data processing tasks and regression model are contained in "USAID Spending Ethiopia (Multi Variable) v3.ipynb." All other files are CSVs containing the underlying data collected from State Department, UN, WHO and World Bank.
-
+Project submitted as part of my application to the Master of Applied Data Science program at University of Michigan. Analyzes relationship between USAID spending and child mortality in Ethiopia. Data processing tasks, EDA and regression model are contained in "USAID Spending Ethiopia_GitHub.ipynb." All other files are CSVs containing the underlying data collected from State Department and UNICEF.
